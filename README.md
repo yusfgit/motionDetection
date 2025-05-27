@@ -22,3 +22,5 @@ Bu proje, bir video akışı üzerinde [Ultralytics YOLOv8](https://github.com/u
 Kurulum:
 ```bash
 pip install ultralytics opencv-python
+```
+[Sonuç Videosu -> Tahmin - Arka Plan Çıkarılmış - Maskelenmiş üç farklı versiyonuyla beraber](https://youtu.be/QJXHP7iyBEk)
